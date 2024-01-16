@@ -1,6 +1,10 @@
+import Users from "../components/Users"
+
 const Page2 = () => {
   return (
-    <div>Page2</div>
+    <>
+      <Users />
+    </>
   )
 }
 
